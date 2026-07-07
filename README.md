@@ -10,7 +10,7 @@ Building intelligent AI systems, scalable cloud applications, and enterprise sof
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:zainzahid99@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/zainzahid/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-black?style=for-the-badge\&logo=vercel)](https://)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge\&logo=github)](https://zainzahid.github.io)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3200&pause=1000&center=true&vCenter=true&width=900&lines=Senior+Full-Stack+AI+Engineer;LLM+Engineer+%7C+RAG+%7C+AI+Agents;LangChain+%7C+LangGraph+%7C+CrewAI;React+%7C+Angular+%7C+Node.js+%7C+FastAPI;Building+Enterprise+AI+Applications" />
 
@@ -20,103 +20,127 @@ Building intelligent AI systems, scalable cloud applications, and enterprise sof
 
 # 🚀 About Me
 
-I'm a **Senior Full-Stack AI Engineer** with **7+ years of experience** building enterprise web applications, cloud-native platforms, and modern AI solutions.
+I'm a **Senior Full-Stack AI Engineer** with **7+ years of professional experience** building enterprise software, cloud-native platforms, and intelligent AI applications.
 
-My work combines strong software engineering fundamentals with cutting-edge AI technologies including **LLMs, Agentic AI, RAG pipelines, autonomous multi-agent systems, workflow automation, and fine-tuning**.
+I specialize in combining modern software engineering with the latest advances in **LLMs, Agentic AI, Retrieval-Augmented Generation (RAG), autonomous AI agents, workflow automation, and scalable cloud infrastructure**.
 
-I enjoy designing scalable architectures that solve real business problems while delivering exceptional user experiences.
-
----
-
-# 🤖 AI Expertise
-
-* AI Agents
-* LangChain
-* LangGraph
-* CrewAI
-* PhiData
-* RAG Pipelines
-* LLM Orchestration
-* Prompt Engineering
-* Function & Tool Calling
-* Multi-Agent Systems
-* Hybrid Search
-* Pinecone
-* ChromaDB
-* PgVector
-* Fine-Tuning (SFT)
-* Reinforcement Learning from Human Feedback (RLHF)
-* n8n Automation
-* Make.com
+I enjoy architecting systems that are fast, reliable, maintainable, and capable of solving real-world business challenges.
 
 ---
 
 # 💻 Tech Stack
 
-## Frontend
+## 🎨 Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,ts,js,html,css,tailwind,sass" />
 </p>
 
-Redux • RTK • RxJS • NgRx • NgXs • Styled Components • Material UI • PrimeNG
+**Libraries & Tools**
+
+* Redux Toolkit (RTK)
+* React Query
+* RxJS
+* NgRx
+* NgXs
+* Styled Components
+* Angular Material
+* PrimeNG
 
 ---
 
-## Backend
+## ⚙️ Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,python,dotnet,cs" />
 </p>
 
-Fastify • GraphQL • REST APIs • JWT • OAuth • Firebase Authentication
+**Backend Technologies**
+
+* Fastify
+* GraphQL
+* REST APIs
+* JWT Authentication
+* OAuth
+* Firebase Authentication
 
 ---
 
-## Databases
+## 🗄️ Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
-Sequelize • Mongoose • Pinecone • ChromaDB • PgVector
+* Sequelize ORM
+* Mongoose
 
 ---
 
-## Cloud & DevOps
+## 🤖 AI & LLM Engineering
+
+<p>
+
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge)
+![PhiData](https://img.shields.io/badge/PhiData-2E8B57?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-005CEA?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF9800?style=for-the-badge)
+![PgVector](https://img.shields.io/badge/PgVector-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D5BD0?style=for-the-badge)
+
+</p>
+
+### AI Skills
+
+* AI Agents
+* Multi-Agent Systems
+* LLM Orchestration
+* Retrieval-Augmented Generation (RAG)
+* Prompt Engineering
+* Function Calling
+* Tool Calling
+* Hybrid Search
+* Supervised Fine-Tuning (SFT)
+* Reinforcement Learning from Human Feedback (RLHF)
+* Workflow Automation
+* Knowledge Retrieval Pipelines
+
+---
+
+## ☁️ Cloud & DevOps
 
 <p>
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,git" />
 </p>
 
-AWS EC2 • ECS • Lambda • S3 • Azure • Docker • Shell Scripting
+* AWS EC2
+* AWS ECS
+* AWS Lambda
+* AWS S3
+* Azure
+* Docker
+* Linux Administration
+* Shell Scripting
+* CI/CD
 
 ---
 
 # 💼 Professional Highlights
 
-* 🚀 7+ Years of Professional Experience
-* 🤖 Enterprise AI Solutions
+* 🚀 7+ Years of Software Engineering Experience
+* 🤖 Enterprise AI & LLM Solutions
 * 🧠 Agentic AI Systems
-* 🔍 Advanced RAG Architectures
+* 🔍 Advanced RAG Pipelines
 * ☁️ AWS & Azure Cloud Development
-* ⚡ Enterprise Full-Stack Applications
 * 📦 REST APIs & GraphQL
 * 🛒 Logistics & E-Commerce Platforms
-* 📈 Performance Optimization
-* 👨‍🏫 Technical Leadership & Mentorship
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=zainzahid&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainzahid&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+* ⚡ High-Performance Enterprise Applications
+* 👨‍🏫 Technical Leadership & Mentoring
+* 📈 Performance Optimization & Scalability
 
 ---
 
@@ -135,16 +159,16 @@ AWS EC2 • ECS • Lambda • S3 • Azure • Docker • Shell Scripting
 * Autonomous AI Agents
 * Multi-Agent Collaboration
 * Advanced LLM Fine-Tuning
-* AI Coding Systems
 * MCP Servers
-* Agentic Workflows
+* AI Coding Systems
 * Enterprise AI Infrastructure
+* Cloud-Native AI Applications
 
 ---
 
-# 🏅 Certifications & Recognition
+# 🏆 Certifications & Awards
 
-🏆 **Best Team Player Award** — Cloudtek Inc. (2021)
+🏅 **Best Team Player Award** — Cloudtek Inc. (2021)
 
 📜 Python Fundamentals — DataCamp
 
@@ -156,7 +180,9 @@ AWS EC2 • ECS • Lambda • S3 • Azure • Docker • Shell Scripting
 
 **Bachelor of Science in Computer Science**
 
-**Air University** • 2015–2019
+**Air University**
+
+2015 – 2019
 
 ---
 
@@ -164,7 +190,9 @@ AWS EC2 • ECS • Lambda • S3 • Azure • Docker • Shell Scripting
 
 📧 **[zainzahid99@gmail.com](mailto:zainzahid99@gmail.com)**
 
-🔗 **LinkedIn:** https://www.linkedin.com/in/zainzahid/
+🌐 **Portfolio:** https://zainzahid.github.io
+
+💼 **LinkedIn:** https://www.linkedin.com/in/zainzahid/
 
 📍 **Islamabad, Pakistan**
 
@@ -172,8 +200,8 @@ AWS EC2 • ECS • Lambda • S3 • Azure • Docker • Shell Scripting
 
 <div align="center">
 
-### Thanks for visiting! ⭐
+### ⭐ Thanks for visiting my profile!
 
-*"Engineering scalable software and intelligent AI systems for the future."*
+*"Building intelligent software that bridges modern engineering with the future of AI."*
 
 </div>
